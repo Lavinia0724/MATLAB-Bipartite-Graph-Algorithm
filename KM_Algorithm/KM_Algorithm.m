@@ -236,7 +236,7 @@ for i = 1: N
 		end
 	end
 end
-
+ 
 % 儲存圖片
 set(gcf, 'Renderer', 'painters');
 saveas(gcf, [title_name '.png']);
