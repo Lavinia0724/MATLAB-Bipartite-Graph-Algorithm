@@ -8,10 +8,10 @@
 
 #### Diagram
 1. 模擬 Process 與 Edge Server 連線狀況
-  ![](https://hackmd.io/_uploads/HJtoTTZ8n.png)
-
+![](https://hackmd.io/_uploads/HJtoTTZ8n.png)
 2. 簡易模擬流程圖
-  ![](https://hackmd.io/_uploads/HkCa8hmI3.png=500x)
+>
+![](https://hackmd.io/_uploads/HkCa8hmI3.png=500x)
 
 ### Method 2: KM 演算法 (Kuhn-Munkres Algorithm)
 - 二分圖最大權重匹配 - KM 演算法
