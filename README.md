@@ -3,33 +3,28 @@
 ###### tags: `Side Project` `LAVI` `2023`
 
 ## Information
-## Method 1: Hungarian Algorithm
+### Method 1: Hungarian Algorithm
 - 二分圖最大匹配 - 匈牙利演算法
 - 目的：盡可能讓所有 Process 都有 Edge Server 匹配
 
-### Process 與 Edge Server 連線狀況
+#### Diagram
+1. Process 與 Edge Server 連線狀況
 ![](https://hackmd.io/_uploads/HJtoTTZ8n.png)
-
-### 模擬 Process 與 Edge Server 連線狀況網路配置圖
-![](https://hackmd.io/_uploads/rJtiBCbL3.png)
-
-### 根據 Process 和 Edge Server 序號依序匹配圖
+2. 根據 Process 和 Edge Server 序號依序匹配圖
 ![](https://hackmd.io/_uploads/BkC_YCWL3.png)
-
-### 簡易模擬流程圖
+3. 簡易模擬流程圖
 ![](https://hackmd.io/_uploads/HkCa8hmI3.png)
 
-## Method 2: KM 演算法 (Kuhn-Munkres Algorithm)
+### Method 2: KM 演算法 (Kuhn-Munkres Algorithm)
 - 二分圖最大權重匹配 - KM 演算法
 - 目的：依照 Process 對 Edge Server 的優先權分配，盡可能讓所有 Process 都以較高的優先權進行匹配
 
-### Process 與 Edge Server 連線狀況
+#### Diagram
+1. Process 與 Edge Server 連線狀況
 ![](https://hackmd.io/_uploads/ryYov3X8n.png)
-
-### Process 和 Edge Server 優先權連線狀態圖
+2. Process 和 Edge Server 優先權連線狀態圖
 ![](https://hackmd.io/_uploads/B19ejnQIh.png)
-
-### 簡易模擬流程圖
+3. 簡易模擬流程圖
 ![](https://hackmd.io/_uploads/Sy7K037Un.png)
 
 ## Reference
