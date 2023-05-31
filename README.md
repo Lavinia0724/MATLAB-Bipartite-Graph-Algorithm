@@ -1,6 +1,5 @@
 # LAVI's MATLAB Bipartite Graph Algorithm Side Project
-
-###### tags: `Side Project` `LAVI` `2023`
+###### tags: `Side Project` `MATLAB` `LAVI` `2023` 
 
 ## Information
 ### Method 1: Hungarian Algorithm
