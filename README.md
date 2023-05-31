@@ -9,7 +9,7 @@
 #### Diagram
 1. 模擬 Process 與 Edge Server 連線狀況
   ![](https://hackmd.io/_uploads/HJtoTTZ8n.png)
-
+-
 2. 簡易模擬流程圖
   ![](https://hackmd.io/_uploads/HkCa8hmI3.png)
 
