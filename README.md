@@ -8,11 +8,9 @@
 - 目的：盡可能讓所有 Process 都有 Edge Server 匹配
 
 #### Diagram
-1. Process 與 Edge Server 連線狀況
+1. 模擬 Process 與 Edge Server 連線狀況
 ![](https://hackmd.io/_uploads/HJtoTTZ8n.png)
-2. 根據 Process 和 Edge Server 序號依序匹配圖
-![](https://hackmd.io/_uploads/BkC_YCWL3.png)
-3. 簡易模擬流程圖
+2. 簡易模擬流程圖
 ![](https://hackmd.io/_uploads/HkCa8hmI3.png)
 
 ### Method 2: KM 演算法 (Kuhn-Munkres Algorithm)
@@ -20,11 +18,9 @@
 - 目的：依照 Process 對 Edge Server 的優先權分配，盡可能讓所有 Process 都以較高的優先權進行匹配
 
 #### Diagram
-1. Process 與 Edge Server 連線狀況
+1. 模擬 Process 與 Edge Server 連線狀況
 ![](https://hackmd.io/_uploads/ryYov3X8n.png)
-2. Process 和 Edge Server 優先權連線狀態圖
-![](https://hackmd.io/_uploads/B19ejnQIh.png)
-3. 簡易模擬流程圖
+2. 簡易模擬流程圖
 ![](https://hackmd.io/_uploads/Sy7K037Un.png)
 
 ## Reference
