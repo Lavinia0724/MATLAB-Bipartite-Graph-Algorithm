@@ -1,5 +1,6 @@
 # LAVI's MATLAB Bipartite Graph Algorithm Side Project
 ###### tags: `Side Project` `MATLAB` `LAVI` `2023` 
+透過二分圖演算法模擬處理資源配置最大化問題
 
 ## Information
 ### Method 1: Hungarian Algorithm
